@@ -79,6 +79,7 @@ li {
 
   position: sticky;
   top: 0%;
+  z-index: 100;
 }
 
 .header-content {
@@ -240,7 +241,7 @@ li {
 }
 
 .chevour:hover {
-  transform: scale(2);
+  transform: scale(1.5);
 }
 
 .price-tag-container {
